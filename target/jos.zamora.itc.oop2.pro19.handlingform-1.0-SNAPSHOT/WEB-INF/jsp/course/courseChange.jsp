@@ -1,5 +1,5 @@
 <%-- 
-    Document   : studentAdd
+    Document   : courseChange
     Created on : 22/05/2015, 10:25:59 AM
     Author     : jos1727
 --%>

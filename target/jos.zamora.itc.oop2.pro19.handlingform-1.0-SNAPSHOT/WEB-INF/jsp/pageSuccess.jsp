@@ -1,5 +1,5 @@
 <%-- 
-    Document   : pageSucces
+    Document   : pageSuccess
     Created on : 18/05/2015, 09:42:51 PM
     Author     : jos1727
 --%>
